@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,2C5364&height=200&section=header&text=Terry%20Jheson%20Aguila%20👨‍💻🎨&fontSize=40&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,2C5364&height=200&section=header&text=Terry%20Jheson%20Aguila%20 &fontSize=40&fontColor=FFFFFF" />
 
 ### 👋 Hello, I'm Terry Jheson Aguila
 
 > 🧠 Developer | 🎨 Graphic Designer | 🎬 Media Creative  
-> I blend creativity with code — from UI to backend logic, and design to motion.
+> From Vision to Reality.
 
 ---
 
