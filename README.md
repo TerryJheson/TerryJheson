@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2193b0,6dd5ed&height=200&section=header&text=Terry%20Jheson%20Aguila%20👨‍💻🎨&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://www.japanesewordswriting.com/wp-content/uploads/2017/06/toumeina-h.png" alt="Saotome" style="height: 200px;" />
+  <img src="https://media.giphy.com/media/2SvePlXEmRak8/giphy.gif" alt="Saotome" style="height: 200px;" />
 
 
 
