@@ -16,14 +16,14 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### 🛠️ Backend & Others
+#### 🛠️ Backend & CMS
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-#### 🎨 Creative Suite
+#### 🎨 Creative Tools
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
@@ -31,20 +31,12 @@
 
 ---
 
-### ⚡ What I Do
+### 🧩 Projects & Skills
 
-- 🎯 Frontend Dev — Crafting beautiful, responsive web interfaces
-- 💻 Backend + CMS — Java, C#, C++, PHP, and WordPress magic
-- 🎨 Creative Design — Logos, social media posts, banners
-- 🎬 Video Editing — YouTube edits, ads, reels, and motion graphics
-
----
-
-### 📊 GitHub Stats
-
-![Terry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=terryjheson050503&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terryjheson050503&layout=compact&theme=tokyonight)
+- ✅ **CMS Integration** — WordPress customization, plugin setup, theme design
+- ✅ **Graphic Design** — Logos, social posts, jersey layouts, posters, marketing content
+- ✅ **Motion & Video Editing** — YouTube, reels, product videos, animated intros/outros
+- ✅ **Backend Dev** — School systems, appointment dashboards, PHP/MySQL development
 
 ---
 
@@ -52,7 +44,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://yourwebsite.com](https://tjaguila.framer.website/))
 [![Email](https://img.shields.io/badge/Gmail-terryjheson050503@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:terryjheson050503@gmail.com)
 
 ---
