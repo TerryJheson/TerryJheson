@@ -49,7 +49,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://yourwebsite.com](https://tjaguila.framer.website/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tjaguila.framer.website/)
 [![Email](https://img.shields.io/badge/Gmail-terryjheson050503@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:terryjheson050503@gmail.com)
 
 ---
