@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff7e5f,feb47b&height=200&section=header&text=Terry%20Jheson%20Aguila%20👨‍💻🎨&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000,ff0000&height=200&section=header&text=Terry%20Jheson%20Aguila%20%E2%9C%88%EF%B8%8F%F0%9F%94%A5&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 
 
 
