@@ -1,9 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2193b0,6dd5ed&height=200&section=header&text=Terry%20Jheson%20Aguila%20👨‍💻🎨&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://pnghq.com/wp-content/uploads/2023/02/kakegurui-saotome-png-4833.png" alt="Saotome" style="height: 200px;" />
+  <img src="https://free-png.ru/wp-content/uploads/2022/09/free-png.ru-108.png"/>
 </div>
 
-<img src="https://free-png.ru/wp-content/uploads/2022/09/free-png.ru-108.png"/>
+
 ### 👋 Hello, I'm Terry Jheson Aguila
 
 > 🧠 Developer | 🎨 Graphic Designer | 🎬 Media Creative  
