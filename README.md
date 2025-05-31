@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2193b0,6dd5ed&height=200&section=header&text=Terry%20Jheson%20Aguila%20👨‍💻🎨&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://media.giphy.com/media/2SvePlXEmRak8/giphy.gif" alt="Saotome" style="height: 500px;" />
+  <img src="https://media.tenor.com/m8kTdy9o-nQAAAAd/zoro-king-of-hell-zoro.gif" alt="Saotome" style="height: 500px;" />
 
 
 
