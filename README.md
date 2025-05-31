@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff9a9e,fad0c4&height=200&section=header&text=Terry%20Jheson%20Aguila%20%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%E2%9C%A8&fontSize=40&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=83a4d4,b6fbff&height=200&section=header&text=Terry%20Jheson%20Aguila%20👨‍💻🎨&fontSize=40&fontColor=ffffff&animation=twinkling" />
 
 ### 👋 Hello, I'm Terry Jheson Aguila
 
